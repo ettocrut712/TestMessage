@@ -39,14 +39,9 @@ public:
 
 };
 
-//22 mars texte ajouté...
+//22 mars texte ajoutÃ©...
 
 // 22 mars texte qu'on veut retirer...
 // Version 1
-
-// Version 2
-
-// Version 3
-
 
 
