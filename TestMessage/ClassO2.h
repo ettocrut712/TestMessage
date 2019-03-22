@@ -49,3 +49,6 @@ public:
 // version 3 en cours et bonne...
 
 
+// V 4 et a ne pas conserver...
+
+
