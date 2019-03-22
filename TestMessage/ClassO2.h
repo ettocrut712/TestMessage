@@ -49,6 +49,6 @@ public:
 // version 3 en cours et bonne...
 
 
-// V 4 et a ne pas conserver...
+// V 4 et a ne pas conserver...  et retir/ a 19h16 
 
 
