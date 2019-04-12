@@ -39,20 +39,6 @@ public:
 
 };
 
-//22 mars texte ajouté...
 
-// 22 mars texte qu'on veut retirer...
-// Version 1
-
-// version originale
-
-// version 3 en cours et bonne...
-
-
-// V 4 et a ne pas conserver...  et retir/ a 19h16 
-
-// il est maintenant 21:14
-
-// 21:17 maintenant
 
 

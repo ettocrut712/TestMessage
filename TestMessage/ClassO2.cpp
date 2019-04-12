@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "ClassO2.h"
-
+// changement 1 fait dans github 10:41
 
 ClassO2::ClassO2()
 {
